@@ -19,8 +19,7 @@ I started with raw Zepto sales data and prepared it for analysis in Excel. After
 The main focus was to make the dashboard simple to use while still providing useful business insights.
 
 ### Source Data
-
-![Source Data](Source Data.png)
+![Source Data](SourceData.png)
 
 The dataset includes information about:
 
