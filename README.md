@@ -47,7 +47,7 @@ The dataset includes information about:
 
 ### Dashboard Sketch
 
-![Dashboard Sketch](dashboard-sketch.png)
+![Dashboard ](Dashboard_Picture.png)
 
 > Initial layout used to plan the dashboard before creating the final version.
 
@@ -112,7 +112,7 @@ The dashboard was created to answer questions like:
 5. Select different months, years, categories, cities, customer types, or payment methods.
 6. Explore the KPIs and charts to understand the sales performance.
 
-[📥 Download the Excel Dashboard](zepto-sales-dashboard.xlsx)
+[📥 Download the Excel Dashboard](zepto_sales.xlsx)
 
 > For the best experience, download the workbook and open it in Microsoft Excel. The interactive features may not work directly in GitHub's preview.
 
