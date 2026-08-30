@@ -4,7 +4,7 @@
 
 ## Project Preview
 
-![Zepto Sales Performance Dashboard](dashboard-image.png)
+![Zepto Sales Performance Dashboard](Dashboard_Picture.png)
 
 ## Project Overview
 
@@ -20,7 +20,7 @@ The main focus was to make the dashboard simple to use while still providing use
 
 ### Source Data
 
-![Source Data](Dashboard_Picture.png)
+![Source Data](Source Data.png)
 
 The dataset includes information about:
 
@@ -44,12 +44,6 @@ The dataset includes information about:
 - Total Sales
 - Delivery Time
 - Profit
-
-### Dashboard Sketch
-
-![Dashboard ](Dashboard_Picture.png)
-
-> Initial layout used to plan the dashboard before creating the final version.
 
 ## Dashboard Features
 
@@ -112,7 +106,7 @@ The dashboard was created to answer questions like:
 5. Select different months, years, categories, cities, customer types, or payment methods.
 6. Explore the KPIs and charts to understand the sales performance.
 
-[📥 Download the Excel Dashboard](zepto_sales.xlsx)
+[📥 Download the Excel Dataset](zepto_sales.xlsx)
 
 > For the best experience, download the workbook and open it in Microsoft Excel. The interactive features may not work directly in GitHub's preview.
 
