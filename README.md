@@ -1,30 +1,31 @@
 # Zepto Sales Performance Dashboard
-📊 Interactive Excel dashboard analyzing Zepto sales performance, customer insights, product trends, profitability, and delivery performance. 🚀
+
+📊 An interactive Excel dashboard built to understand Zepto's sales performance, customer behavior, product performance, and delivery trends.
+
 ## Project Preview
 
 ![Zepto Sales Performance Dashboard](dashboard-image.png)
 
 ## Project Overview
 
-This project transforms Zepto sales data into an interactive Excel dashboard for analyzing overall sales performance.
+I created this project to analyze Zepto sales data and turn it into an easy-to-understand Excel dashboard.
 
-The dashboard helps users explore sales, orders, quantity, profit, delivery time, product performance, customer segments, payment methods, cities, and monthly sales trends.
+The dashboard gives a quick view of sales, orders, profit, products, categories, customers, cities, payment methods, and delivery performance. It also allows users to filter the data and explore different sales trends.
 
 ## From Data to Dashboard
 
-The project started with raw Zepto sales data containing order, customer, product, category, payment, delivery, revenue, and profit information.
+I started with raw Zepto sales data and prepared it for analysis in Excel. After organizing and analyzing the data, I used PivotTables, PivotCharts, formulas, slicers, and KPI cards to build the final dashboard.
 
-The data was analyzed and organized using Excel, followed by PivotTables, PivotCharts, slicers, KPI calculations, and dashboard design to create an interactive sales performance report.
+The main focus was to make the dashboard simple to use while still providing useful business insights.
 
 ### Source Data
 
 ![Source Data](data.png)
 
-The source dataset contains information such as:
+The dataset includes information about:
 
 - Order ID
 - Order Date
-- Month and Year
 - Customer Name
 - Customer Type
 - Customer Segment
@@ -48,28 +49,22 @@ The source dataset contains information such as:
 
 ![Dashboard Sketch](dashboard-sketch.png)
 
-> This section is optional. Remove it if you did not create a dashboard sketch.
+> Initial layout used to plan the dashboard before creating the final version.
 
 ## Dashboard Features
 
-- Interactive slicers for Month and Year
-- Customer Type filtering
-- Category filtering
-- City filtering
-- Payment Method filtering
-- Dynamic KPI cards
-- Total Sales analysis
-- Total Orders analysis
-- Total Quantity analysis
-- Average Delivery Time analysis
-- Total Profit analysis
-- Monthly Sales Trend
-- Sales by City
-- Sales by Payment Method
-- Sales by Customer Segment
-- Profit by Category
-- Top 5 Products by Sales
-- Interactive PivotCharts
+- 📌 Interactive slicers for Month and Year
+- 👥 Customer Type and Customer Segment analysis
+- 🛍️ Product and Category performance
+- 🏙️ City-wise sales analysis
+- 💳 Payment Method analysis
+- 💰 Total Sales and Profit KPIs
+- 📦 Total Orders and Quantity KPIs
+- 🚚 Average Delivery Time
+- 📈 Monthly Sales Trend
+- 🏆 Top 5 Products by Sales
+- 📊 Profit by Category
+- 📊 Interactive PivotCharts
 
 ## Key KPIs
 
@@ -81,52 +76,50 @@ The source dataset contains information such as:
 | Average Delivery Time | 25 |
 | Total Profit | 49,074 |
 
-> KPI values shown above are based on the dashboard screenshot and may change when slicers/filters are applied.
+> These values represent the overall dashboard view. The values change when filters or slicers are applied.
 
-## Business Questions Answered
+## Business Questions
 
-This dashboard helps answer questions such as:
+The dashboard was created to answer questions like:
 
-- What is the total sales performance?
+- How much total sales did the business generate?
 - How many orders were placed?
-- Which products generate the highest sales?
-- Which categories generate the most profit?
+- Which products are performing best?
+- Which categories generate more profit?
 - Which cities contribute the most sales?
-- Which payment methods are most commonly used?
+- Which payment methods are used most often?
 - Which customer segments generate higher sales?
-- How do sales change month by month?
+- How do sales change over time?
 - What is the average delivery time?
-- Which products should receive more business attention?
+- Which products and categories need more attention?
 
 ## Files Included
 
 | File | Description |
 |---|---|
-| `zepto-sales-dashboard.xlsx` | Completed Excel dashboard |
-| `dashboard-image.png` | Preview of the final dashboard |
+| `zepto-sales-dashboard.xlsx` | Excel dashboard |
+| `dashboard-image.png` | Final dashboard preview |
 | `dashboard-sketch.png` | Initial dashboard layout |
-| `data.png` | Preview of the source data |
+| `data.png` | Source data preview |
 | `README.md` | Project documentation |
 
-> Replace the file names above with the exact names used in your repository.
-
-## How to Download and Use
+## How to Use
 
 1. Download `zepto-sales-dashboard.xlsx`.
-2. Open the workbook using Microsoft Excel.
-3. Navigate to the `Dash` worksheet.
-4. Use the slicers to filter the dashboard.
-5. Select different months, years, customer types, categories, cities, or payment methods.
-6. Analyze how the KPIs and charts change based on the selected filters.
+2. Open the file in Microsoft Excel.
+3. Go to the `Dash` worksheet.
+4. Use the available slicers and filters.
+5. Select different months, years, categories, cities, customer types, or payment methods.
+6. Explore the KPIs and charts to understand the sales performance.
 
-[Download the Excel Dashboard](zepto-sales-dashboard.xlsx)
+[📥 Download the Excel Dashboard](zepto-sales-dashboard.xlsx)
 
-> GitHub may not fully preview Excel workbooks. Download the `.xlsx` file and open it in Microsoft Excel for the complete interactive experience.
+> For the best experience, download the workbook and open it in Microsoft Excel. The interactive features may not work directly in GitHub's preview.
 
-## Tools and Skills
+## Tools & Skills
 
 - Microsoft Excel
-- Excel Data Cleaning
+- Data Cleaning
 - Excel Formulas
 - PivotTables
 - PivotCharts
@@ -140,10 +133,12 @@ This dashboard helps answer questions such as:
 
 ## Project Outcome
 
-The final dashboard provides a single interactive view of Zepto sales performance and allows users to quickly identify sales trends, profitable categories, high-performing products, customer behavior, and operational performance.
+This project helped me practice working with raw business data and turning it into a useful dashboard.
+
+The final dashboard makes it easier to identify sales trends, understand customer and product performance, compare categories and cities, and track overall profitability.
 
 ## Author
 
 **Sanjai**
 
-Data Analytics Project
+🎓 Data Analytics Student
