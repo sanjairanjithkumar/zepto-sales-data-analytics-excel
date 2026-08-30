@@ -20,7 +20,7 @@ The main focus was to make the dashboard simple to use while still providing use
 
 ### Source Data
 
-![Source Data](data.png)
+![Source Data](Dashboard_Picture.png)
 
 The dataset includes information about:
 
