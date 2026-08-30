@@ -1,9 +1,5 @@
-# zepto-sales-data-analytics-
-📊 Interactive Excel dashboard analyzing Zepto sales performance, customer insights, product trends, profitability, and delivery performance. 🚀
 # Zepto Sales Performance Dashboard
-
-An interactive Excel dashboard that analyzes Zepto sales performance across products, categories, customer segments, cities, payment methods, and time periods.
-
+📊 Interactive Excel dashboard analyzing Zepto sales performance, customer insights, product trends, profitability, and delivery performance. 🚀
 ## Project Preview
 
 ![Zepto Sales Performance Dashboard](dashboard-image.png)
