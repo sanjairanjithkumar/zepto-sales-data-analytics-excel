@@ -90,14 +90,14 @@ The dashboard was created to answer questions like:
 
 | File | Description |
 |---|---|
-| `zepto-sales.xlsx` | Excel dashboard |
+| `zepto_sales.xlsx` | Excel dashboard |
 | `dashboard-image.png` | Final dashboard preview |
 | `source_data.png` | Source data preview |
 | `README.md` | Project documentation |
 
 ## How to Use
 
-1. Download `zepto-sales.xlsx`.
+1. Download `zepto_sales.xlsx`.
 2. Open the file in Microsoft Excel.
 3. Go to the `Dash` worksheet.
 4. Use the available slicers and filters.
