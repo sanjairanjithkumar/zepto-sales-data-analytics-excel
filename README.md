@@ -4,7 +4,7 @@
 
 ## Dashboard Preview
 
-![Zepto Sales Performance Dashboard](Dashboard_Picture.png)
+![Zepto Sales Performance Dashboard](dashboard_image.png)
 
 ## Project Overview
 
@@ -90,15 +90,14 @@ The dashboard was created to answer questions like:
 
 | File | Description |
 |---|---|
-| `zepto-sales-dashboard.xlsx` | Excel dashboard |
+| `zepto-sales.xlsx` | Excel dashboard |
 | `dashboard-image.png` | Final dashboard preview |
-| `dashboard-sketch.png` | Initial dashboard layout |
-| `data.png` | Source data preview |
+| `source_data.png` | Source data preview |
 | `README.md` | Project documentation |
 
 ## How to Use
 
-1. Download `zepto-sales-dashboard.xlsx`.
+1. Download `zepto-sales.xlsx`.
 2. Open the file in Microsoft Excel.
 3. Go to the `Dash` worksheet.
 4. Use the available slicers and filters.
