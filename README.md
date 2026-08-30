@@ -2,7 +2,7 @@
 
 📊 An interactive Excel dashboard built to understand Zepto's sales performance, customer behavior, product performance, and delivery trends.
 
-## Project Preview
+## Dashboard Preview
 
 ![Zepto Sales Performance Dashboard](Dashboard_Picture.png)
 
